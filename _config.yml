@@ -1,16 +1,16 @@
-title: John Smith
+title: Sami Ul Haq
 description: My Personal Blog
-author: John Smith
+author: SamiU Ul Haq
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+github: https://sami-haq99.github.io/blog/
+about: Just another Man
 
 baseurl: ""
 url: ""
 
 allowsearch: true
 
-disqus_shortname: aboutashu
+disqus_shortname: sami
 google_analytics: UA-72862926-1
 
 share:
