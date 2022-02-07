@@ -1,9 +1,9 @@
-title: Sami Ul Haq
-description: My Personal Blog
-author: SamiU Ul Haq
+title: "Sami Ul Haq"
+description: "My Personal Blog"
+author: "SamiU Ul Haq"
 logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://sami-haq99.github.io/blog/
-about: Just another Man
+about: "Just another Man"
 
 baseurl: ""
 url: ""
